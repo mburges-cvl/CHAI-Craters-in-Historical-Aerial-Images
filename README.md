@@ -1,14 +1,13 @@
 # Craters in Historical Aerial Images (CHAI) Dataset
 
 <p float="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://cvl.tuwien.ac.at/" target="_blank">
     <img src="/logos/cvl_white.png" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.tuwien.at/" target="_blank">
     <img src="/logos/tuw_white.png" height="75" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.luftbilddatenbank-gmbh.at/" target="_blank">
     <img src="/logos/logo_at.png" height="75" />
