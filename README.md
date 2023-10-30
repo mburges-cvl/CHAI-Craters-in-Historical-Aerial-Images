@@ -1,5 +1,20 @@
 # Craters in Historical Aerial Images (CHAI) Dataset
 
+<p float="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cvl.tuwien.ac.at/" target="_blank">
+    <img src="/logos/cvl_white.png" height="75"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.tuwien.at/" target="_blank">
+    <img src="/logos/tuw_white.png" height="75" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.luftbilddatenbank-gmbh.at/" target="_blank">
+    <img src="/logos/logo_at.png" height="75" />
+  </a>
+</p>
+
 **PRELIMINARY**, dataset will be published soon.
 
 There are three versions of the dataset: **CHAI-raw**, **CHAI-full**, and **CHAI-light**. The CHAI-raw contains the original 99 historical aerial images with a Region of Interest (ROI) mask as well as the crater annotations. CHAI-full and CHAI-light are the derived datasets that were used for the evaluation of the paper **"CHAI: Craters in Historical Aerial Images"** presented at [WACV2024](https://wacv2024.thecvf.com/). For both datasets we extracted 960×960 patches with an overlap of 20%, both come with the images in .png format and the train, val, and test as .json files in the COCO style. The difference between the CHAI-full and CHAI-light datasets is that for the light version, all patches without any annotations have been removed, which results in the same amount of annotations, but fewer patches:
