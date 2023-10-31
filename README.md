@@ -82,3 +82,18 @@ TBA
 ## License
 
 TBA
+
+## Acknowledgements
+
+
+This work was supported by the Austrian Research Promotion Agency (FFG) under project grant 880883. Acquisition of historical aerial imagery: Luftbilddatenbank Dr. Carls GmbH; Sources of historical aerial imagery: National Archives and Records Administration (Washington, D.C.) and Historic Environment Scotland (Edinburgh).
+
+<p float="center">
+  <a href="https://www.bmk.gv.at/" target="_blank">
+    <img src="/logos/bmk.png" height="75"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  <a href="https://www.ffg.at/en" target="_blank">
+    <img src="/logos/ffg.png" height="75" />
+  </a>
+</p>
