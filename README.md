@@ -94,6 +94,6 @@ This work was supported by the Austrian Research Promotion Agency (FFG) under pr
     &nbsp;&nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.ffg.at/en" target="_blank">
-    <img src="/logos/ffg.png" height="75" />
+    <img src="/logos/FFG.png" height="75" />
   </a>
 </p>
