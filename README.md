@@ -68,21 +68,11 @@ The images within this dataset are sourced from our industry partner, who gather
 
 These microfilms serve as a reference for domain experts to evaluate aspects like image quality – for instance, identifying extensive cloud cover in the top section of the rightmost image – or to determine if an image falls within the region of interest. However, due to the extremely limited resolution of these images, intricate identification of war-related elements such as bomb craters is unfeasible. Consequently, following the assessment, high-resolution scans are requested. 99 of these high-resolution scans make up the CHAI dataset.
 
-## References
-
-TBA
-
 ## Download
 
-TBA
+The dataset is freely available for non-commercial research use. In order to get access to the dataset you have to fill in and sign the usage agreement form (found on Zenodo and send it to us:
 
-## Additional details
-
-TBA
-
-## License
-
-TBA
+https://zenodo.org/records/10068633
 
 ## Acknowledgements
 
