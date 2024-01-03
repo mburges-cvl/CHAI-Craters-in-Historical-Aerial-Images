@@ -70,7 +70,7 @@ These microfilms serve as a reference for domain experts to evaluate aspects lik
 
 ## Download
 
-The dataset is freely available for non-commercial research use. In order to get access to the dataset you have to fill in and sign the usage agreement form (found on Zenodo and send it to us:
+The dataset is freely available for non-commercial research use. In order to get access to the dataset you have to fill in and sign the usage agreement form (found on Zenodo) and send it to us:
 
 https://zenodo.org/records/10068633
 
