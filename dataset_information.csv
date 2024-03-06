@@ -1,0 +1,100 @@
+Name;Project;Location;GSD in m;Year;Month;Day;Split;Bombload
+1945_03_15_Wienxxiii_98;Wienxxiii;Vienna Area;0.1693333;1945;3;15;Val;10
+1944_06_13_Wienxxiii_97;Wienxxiii;Vienna Area;0.1820333;1944;6;13;Val;10
+1945_04_05_Wienxxi_96;Wienxxi;Vienna Area;0.15875;1945;4;5;Val;61
+1945_03_23_Wienxxi_95;Wienxxi;Vienna Area;0.22225;1945;3;23;Val;90
+1945_02_16_Wienxxi_94;Wienxxi;Vienna Area;0.2709333;1945;2;16;Val;53
+1945_04_05_Wienpenzing_93;Wienpenzing;Vienna Area;0.15875;1945;4;5;Val;13
+1945_02_28_Wienpenzing_92;Wienpenzing;Vienna Area;0.2645833;1945;2;28;Val;74
+1945_02_27_Wienpenzing_91;Wienpenzing;Vienna Area;0.2751667;1945;2;27;Val;68
+1945_02_20_Wienpenzing_90;Wienpenzing;Vienna Area;0.2434167;1945;2;20;Val;63
+1945_04_05_Wieniii_89;Wieniii;Vienna Area;0.15875;1945;4;5;Val;16
+1945_02_28_Wieniii_88;Wieniii;Vienna Area;0.2645833;1945;2;28;Val;8
+1944_10_07_Weener_86;Weener;Germany;0.34925;1944;10;7;Test;7
+1944_10_07_Weener_87;Weener;Germany;0.34925;1944;10;7;Test;7
+1945_04_02_Schwechatparkplatz_85;Schwechatparkplatz;Vienna Area;0.1756833;1945;4;2;Val;15
+1945_03_21_Schwechatparkplatz_84;Schwechatparkplatz;Vienna Area;0.2434167;1945;3;21;Val;10
+1944_08_07_Schwechatparkplatz_83;Schwechatparkplatz;Vienna Area;0.3302;1944;8;7;Val;14
+1944_04_24_Schwechatparkplatz_82;Schwechatparkplatz;Vienna Area;0.1693333;1944;4;24;Val;5
+1945_03_26_Schwechatflughafen_81;Schwechatflughafen;Vienna Area;0.1799167;1945;3;26;Val;14
+1945_03_21_Schwechatflughafen_80;Schwechatflughafen;Vienna Area;0.2434167;1945;3;21;Val;8
+1944_12_06_Schwechatflughafen_79;Schwechatflughafen;Vienna Area;0.2116667;1944;12;6;Val;40
+1944_12_06_Schwechatflughafen_78;Schwechatflughafen;Vienna Area;0.2116667;1944;12;6;Val;30
+1944_04_24_Schwechatflughafen_77;Schwechatflughafen;Vienna Area;0.1693333;1944;4;24;Val;28
+1944_02_08_Schwechatflughafen_76;Schwechatflughafen;Vienna Area;0.1799167;1944;2;8;Val;12
+1945_04_17_Regensburg_74;Regensburg;Germany;0.1693333;1945;4;17;Test;20
+1945_03_16_Regensburg_73;Regensburg;Germany;0.254;1945;3;16;Test;20
+1945_09_02_Regensburg_75;Regensburg;Germany;0.3175;1945;9;2;Test;20
+1944_02_25_Nuernberg_71;Nuernberg;Germany;0.26035;1944;2;25;Test;10
+1945_03_21_Nuernberg_72;Nuernberg;Germany;0.254;1945;3;21;Test;21
+1944_07_20_Muenchen_70;Muenchen;Germany;0.381;1944;7;20;Test;26
+1944_07_04_Mannswoerth_63;Mannswoerth;Vienna Area;0.1905;1944;7;4;Val;28
+1945_04_01_Mannswoerth_69;Mannswoerth;Vienna Area;0.2010833;1945;4;1;Val;103
+1945_03_16_Mannswoerth_68;Mannswoerth;Vienna Area;0.1799167;1945;3;16;Val;105
+1945_02_28_Mannswoerth_67;Mannswoerth;Vienna Area;0.254;1945;2;28;Val;98
+1945_01_04_Mannswoerth_66;Mannswoerth;Vienna Area;0.254;1945;1;4;Val;86
+1944_10_07_Mannswoerth_65;Mannswoerth;Vienna Area;0.635;1944;10;7;Val;40
+1944_09_13_Mannswoerth_64;Mannswoerth;Vienna Area;0.18415;1944;9;13;Val;28
+1944_11_01_Ludwigshafen2017_61;Ludwigshafen2017;Germany;0.2645833;1944;11;1;Test;445
+1943_09_24_Ludwigshafen2017_60;Ludwigshafen2017;Germany;0.2645833;1943;9;24;Test;29
+1945_02_15_Ludwigshafen2017_62;Ludwigshafen2017;Germany;0.2645833;1945;2;15;Test;1708
+1945_03_22_Ludwigshafen_59;Ludwigshafen;Germany;0.2645833;1945;3;22;Test;261
+1945_01_14_Ludwigshafen_58;Ludwigshafen;Germany;0.2645833;1945;1;14;Test;244
+1944_10_12_Ludwigshafen_57;Ludwigshafen;Germany;0.2645833;1944;10;12;Test;74
+1945_03_23_Lobau_56;Lobau;Vienna Area;0.22225;1945;3;23;Val;42
+1945_02_14_Lobau_55;Lobau;Vienna Area;0.1905;1945;2;14;Val;41
+1944_10_07_Lobau_54;Lobau;Vienna Area;0.28575;1944;10;7;Val;29
+1945_04_20_Linz_52;Linz;Linz;0.1905;1945;4;20;Val;46
+1945_02_25_Linz_51;Linz;Linz;0.2434167;1945;2;25;Val;46
+1945_05_14_Linz_53;Linz;Linz;0.2116667;1945;5;14;Val;46
+1945_04_20_Graz_50;Graz;Graz Area;0.1756833;1945;4;20;Train;427
+1945_04_20_Graz_49;Graz;Graz Area;0.1756833;1945;4;20;Train;231
+1944_11_17_Graz_1;Graz;Graz Area;0.2645833;1944;11;17;Train;119
+1945_04_05_Graz_24;Graz;Graz Area;0.1799167;1945;4;5;Train;1198
+1945_04_02_Graz_22;Graz;Graz Area;0.2116667;1945;4;2;Train;463
+1945_04_02_Graz_21;Graz;Graz Area;0.2116667;1945;4;2;Train;241
+1945_04_02_Graz_20;Graz;Graz Area;0.2116667;1945;4;2;Train;223
+1945_04_02_Graz_19;Graz;Graz Area;0.2116667;1945;4;2;Train;294
+1945_04_02_Graz_18;Graz;Graz Area;0.2116667;1945;4;2;Train;64
+1945_03_22_Graz_17;Graz;Graz Area;0.15875;1945;3;22;Train;69
+1945_03_22_Graz_16;Graz;Graz Area;0.15875;1945;3;22;Train;40
+1945_03_22_Graz_15;Graz;Graz Area;0.15875;1945;3;22;Train;22
+1945_03_15_Graz_14;Graz;Graz Area;0.1693333;1945;3;15;Train;630
+1945_03_15_Graz_13;Graz;Graz Area;0.1693333;1945;3;15;Train;285
+1945_03_02_Graz_12;Graz;Graz Area;0.28575;1945;3;2;Train;209
+1945_02_28_Graz_11;Graz;Graz Area;0.2645833;1945;2;28;Train;186
+1945_02_23_Graz_10;Graz;Graz Area;0.2751667;1945;2;23;Train;37
+1945_02_23_Graz_9;Graz;Graz Area;0.2751667;1945;2;23;Train;118
+1945_02_21_Graz_8;Graz;Graz Area;0.2434167;1945;2;21;Train;30
+1945_02_21_Graz_7;Graz;Graz Area;0.2434167;1945;2;21;Train;38
+1945_02_21_Graz_6;Graz;Graz Area;0.2434167;1945;2;21;Train;10
+1945_02_21_Graz_5;Graz;Graz Area;0.2434167;1945;2;21;Train;41
+1945_02_21_Graz_4;Graz;Graz Area;0.2434167;1945;2;21;Train;28
+1945_01_05_Graz_3;Graz;Graz Area;0.254;1945;1;5;Train;121
+1944_11_17_Graz_2;Graz;Graz Area;0.2645833;1944;11;17;Train;120
+1945_04_05_Graz_23;Graz;Graz Area;0.15875;1945;4;5;Train;578
+1945_04_05_Graz_25;Graz;Graz Area;0.1799167;1945;4;5;Train;1916
+1945_04_20_Graz_48;Graz;Graz Area;0.1756833;1945;4;20;Train;1135
+1945_04_08_Graz_26;Graz;Graz Area;0.3175;1945;4;8;Train;166
+1945_04_20_Graz_47;Graz;Graz Area;0.1756833;1945;4;20;Train;103
+1945_04_20_Graz_46;Graz;Graz Area;0.1756833;1945;4;20;Train;8
+1945_04_20_Graz_45;Graz;Graz Area;0.1756833;1945;4;20;Train;218
+1945_04_20_Graz_44;Graz;Graz Area;0.1756833;1945;4;20;Train;290
+1945_04_20_Graz_43;Graz;Graz Area;0.1756833;1945;4;20;Train;130
+1945_04_20_Graz_42;Graz;Graz Area;0.1756833;1945;4;20;Train;518
+1945_04_20_Graz_41;Graz;Graz Area;0.1756833;1945;4;20;Train;150
+1945_04_20_Graz_40;Graz;Graz Area;0.1756833;1945;4;20;Train;411
+1945_04_20_Graz_39;Graz;Graz Area;0.1756833;1945;4;20;Train;4
+1945_04_20_Graz_38;Graz;Graz Area;0.1756833;1945;4;20;Train;52
+1945_04_20_Graz_37;Graz;Graz Area;0.1756833;1945;4;20;Train;267
+1945_04_20_Graz_36;Graz;Graz Area;0.1756833;1945;4;20;Train;190
+1945_04_20_Graz_35;Graz;Graz Area;0.1756833;1945;4;20;Train;797
+1945_04_20_Graz_34;Graz;Graz Area;0.1756833;1945;4;20;Train;206
+1945_04_20_Graz_33;Graz;Graz Area;0.1756833;1945;4;20;Train;850
+1945_04_20_Graz_32;Graz;Graz Area;0.1756833;1945;4;20;Train;162
+1945_04_20_Graz_31;Graz;Graz Area;0.1756833;1945;4;20;Train;127
+1945_04_20_Graz_30;Graz;Graz Area;0.1756833;1945;4;20;Train;54
+1945_04_12_Graz_29;Graz;Graz Area;0.1799167;1945;4;12;Train;56
+1945_04_11_Graz_28;Graz;Graz Area;0.254;1945;4;11;Train;1397
+1945_04_08_Graz_27;Graz;Graz Area;0.3175;1945;4;8;Train;286
+1945_04_11_Bayreuth_0;Bayreuth;Germany;0.1756833;1945;4;11;Test;31
