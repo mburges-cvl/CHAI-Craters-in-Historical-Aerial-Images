@@ -1,20 +1,19 @@
 # Craters in Historical Aerial Images (CHAI) Dataset
 
-<p float="center">
-  <a href="https://cvl.tuwien.ac.at/" target="_blank">
-    <img src="/logos/cvl_white.png" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.tuwien.at/" target="_blank">
-    <img src="/logos/tuw_white.png" height="75" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.luftbilddatenbank-gmbh.at/" target="_blank">
-    <img src="/logos/logo_at.png" height="75" />
-  </a>
-</p>
 
-**PRELIMINARY**, dataset will be published soon.
+  <p float="center">
+    <a href="https://cvl.tuwien.ac.at/" target="_blank">
+      <img src="/logos/cvl_black.png" height="75"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://www.tuwien.at/" target="_blank">
+      <img src="/logos/tuw_black.png" height="75" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://www.luftbilddatenbank-gmbh.at/" target="_blank">
+      <img src="/logos/logo_at.png" height="75" />
+    </a>
+  </p>
 
 There are three versions of the dataset: **CHAI-raw**, **CHAI-full**, and **CHAI-light**. The CHAI-raw contains the original 99 historical aerial images with a Region of Interest (ROI) mask as well as the crater annotations. CHAI-full and CHAI-light are the derived datasets that were used for the evaluation of the paper **"CHAI: Craters in Historical Aerial Images"** presented at [WACV2024](https://wacv2024.thecvf.com/). For both datasets we extracted 960×960 patches with an overlap of 20%, both come with the images in .png format and the train, val, and test as .json files in the COCO style. The difference between the CHAI-full and CHAI-light datasets is that for the light version, all patches without any annotations have been removed, which results in the same amount of annotations, but fewer patches:
 
@@ -67,18 +66,22 @@ The images within this dataset are sourced from our industry partner, who gather
 
 These microfilms serve as a reference for domain experts to evaluate aspects like image quality – for instance, identifying extensive cloud cover in the top section of the rightmost image – or to determine if an image falls within the region of interest. However, due to the extremely limited resolution of these images, intricate identification of war-related elements such as bomb craters is unfeasible. Consequently, following the assessment, high-resolution scans are requested. 99 of these high-resolution scans make up the CHAI dataset.
 
-## References
-
-TBA
-
 ## Download
 
-TBA
+The dataset is freely available for non-commercial research use. In order to get access to the dataset you have to fill in and sign the usage agreement form (found on Zenodo) and send it to us:
 
-## Additional details
+https://zenodo.org/records/10068633
 
-TBA
+## Acknowledgements
 
-## License
 
-TBA
+This work was supported by the Austrian Research Promotion Agency (FFG) under project grant 880883. Acquisition of historical aerial imagery: Luftbilddatenbank Dr. Carls GmbH; Sources of historical aerial imagery: National Archives and Records Administration (Washington, D.C.) and Historic Environment Scotland (Edinburgh).
+  <p float="center">
+    <a href="https://www.bmk.gv.at/" target="_blank">
+      <img src="/logos/bmk.png" height="75"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
+    <a href="https://www.ffg.at/en" target="_blank">
+      <img src="/logos/FFG.png" height="75" />
+    </a>
+  </p>
